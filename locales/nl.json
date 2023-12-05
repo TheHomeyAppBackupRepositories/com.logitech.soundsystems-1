@@ -1,0 +1,23 @@
+{
+  "commands": {
+    "onoff": "Aan/Uit",
+    "volume_up": "Volume Omhoog",
+    "volume_down": "Volume Omlaag",
+    "input_coax":"Coax input",
+    "input_direct":"AUX input",
+    "input_optical":"Optisch input",
+    "input_stereo_1":"Stereo 1 input",
+    "input_stereo_2":"Stereo 2 input",
+    "input_stereo_3":"Stereo 3 input",
+    "effect": "Effect",
+    "sub_down":"Subwoofer Omlaag",
+    "sub_up":"Subwoofer Omhoog",
+    "surround_down":"Surround Omhoog",
+    "surround_up":"Surround Omhoog",
+    "test":"Test",
+    "center_down":"Center Omhoog",
+    "center_up":"Center Omhoog",
+    "mute":"Geluid Dempen",
+    "menu":"Menu"
+  }
+}

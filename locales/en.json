@@ -1,0 +1,23 @@
+{
+  "commands": {
+    "onoff": "Power On/Off",
+    "volume_up": "Volume Up",
+    "volume_down": "Volume Down",
+    "input_coax":"Coax input",
+    "input_direct":"AUX input",
+    "input_optical":"Optical input",
+    "input_stereo_1":"Stereo 1 input",
+    "input_stereo_2":"Stereo 2 input",
+    "input_stereo_3":"Stereo 3 input",
+    "effect": "Effect",
+    "sub_down":"Subwoofer Down",
+    "sub_up":"Subwoofer Up",
+    "surround_down":"Surround Up",
+    "surround_up":"Surround Up",
+    "test":"Test",
+    "center_down":"Center Up",
+    "center_up":"Center Up",
+    "mute":"Mute",
+    "menu":"Menu"
+  }
+}

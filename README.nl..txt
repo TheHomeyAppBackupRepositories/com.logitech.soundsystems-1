@@ -1,0 +1,1 @@
+Deze app biedt infrarood ondersteuning aan het populaire geluidssysteem de Z-5500 van Logitech. De app biedt flowkaartjes met infrarood commando's en ook een afstandsbediening via eigen capabilities. waar extra functies op staan. 
